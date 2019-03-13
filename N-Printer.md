@@ -23,5 +23,5 @@ Adaptateur femelle (pour la connection)
 Un pack de LED
 Bouton poussoir
 Une carte à puce
-Cable avec des connecteurs mâles.
+Cable avec des connecteurs mâles
 
